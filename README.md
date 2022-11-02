@@ -139,3 +139,4 @@ lang | string | 'ru-RU' | (`'ru-RU'`&#124;`'en-US')`| Language |
 ### License
 
 [MIT License](https://github.com/veks/button-visually-impaired-javascript/blob/master/LICENSE.md)
+
